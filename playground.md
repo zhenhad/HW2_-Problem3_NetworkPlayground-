@@ -39,6 +39,6 @@ Second hidden layer with 3 neurons.
 Third hidden layer with 2 neurons.
 
 As you can see in the screenshot below, the loss did not improved more than 0.5.\\
-so increasing model capacity will not necessarily improve the model, it has its own draw backs like overfitting because of a lot of parameters, and would make the network more expensive.\\
+so increasing model capacity will not necessarily improve the model, theoritally it increase flexiblity but it has its own draw backs like overfitting because of a lot of parameters, and would make the network more expensive.\\
 # Screenshot
 ![image](https://github.com/zhenhad/HW2_-Problem3_NetworkPlayground-/assets/39483728/62b75cda-44ee-4bd8-935a-f8ec157aa696)
