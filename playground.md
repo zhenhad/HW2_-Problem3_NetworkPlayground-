@@ -56,8 +56,10 @@ Run the model as given four or five times. Before each trial, hit the Reset the 
 \\
 # Screenshots 1:
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/012da786-0e5e-4dbb-9d08-a289894d5304)
+test los = 0.350 \\ training loss = 0.311
 # Screenshot 2:
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/5848d2a4-b976-4e7e-ba7f-40ca17d4fe51)
+test los = 0.333 \\ training loss = 0.301
 # Screenshot 3:
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/fa3ef3f2-fd2d-4313-b01f-8288288fd451)
 test los = 0.309 \\ training loss = 0.231
