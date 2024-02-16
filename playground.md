@@ -87,3 +87,31 @@ test loss = 0.191 \\ training loss = 0.132
 # Screenshot 5 :
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/8c26238b-4829-4c3e-88c1-caa0ab8d7712)
 test loss = 0.173
+this time (adding a layer) the shape was more similar to each other, but the test loss still different (not as scatter as in the previous network).
+
+## Neural Net Spiral
+
+# Task 1 & 2 :
+At the begining I started with a complex networ and following parameter in the screenshot 1:
+![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/aac2427f-919c-4c75-b0f3-cd2915fa53a9)
+Then I tried to change the model parameters:
+![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/9b5902eb-ef5d-4ccb-aa00-2b9439174110)
+Then I added extra feature:
+![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/1c8f4068-d93b-416e-9a38-cdf00fca7263)
+as you can see adding extra feature helped a lot
+## The effect of batch size:
+### Small batch size:
+More sensitive to individual data points, potentially learning more intricate details.
+can increase noise and require more training iterations.
+### Large batch size:
+Uses more information at once, potentially leading to smoother updates and convergence.
+might not fit in memory on smaller devices.
+![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/30fa4e62-90f1-4ae8-a86a-bbf07b1ad31c)
+## The effect of learning rate:
+### High learning rate:
+Bigger adjustments to weights, faster learning but risk of instability and getting stuck.
+### Low learning rate:
+Smaller adjustments, slower learning but more stable and might not reach the best solution.
+### Optimal learning rate:
+Leads to smooth learning, avoids getting stuck, and helps reach the best possible performance.
+The 
