@@ -51,6 +51,19 @@ This exercise uses the XOR data again, but looks at the repeatability of trainin
 
 Task 1: \\
 
+This exercise uses the XOR data again, but looks at the repeatability of training Neural Nets and the importance of initialization.\\
 Run the model as given four or five times. Before each trial, hit the Reset the network button to get a new random initialization. (The Reset the network button is the circular reset arrow just to the left of the Play button.) Let each trial run for at least 500 steps to ensure convergence. What shape does each model output converge to? What does this say about the role of initialization in non-convex optimization?
 \\
-
+# Screenshots 1:
+![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/012da786-0e5e-4dbb-9d08-a289894d5304)
+# Screenshot 2:
+![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/5848d2a4-b976-4e7e-ba7f-40ca17d4fe51)
+# Screenshot 3:
+![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/fa3ef3f2-fd2d-4313-b01f-8288288fd451)
+test los = 0.309 \\ training loss = 0.231
+# Screenshot 4:
+![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/e05e29a7-4ff3-49c6-8499-76e5f0cd25ac)
+test loss = 0.192 \\ training loss = 0.134
+# Screenshot 5:
+![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/0fcfb8e2-5199-480b-b808-7602fad701ec)
+test loss = 0.309 \\ training loss = 0.231
