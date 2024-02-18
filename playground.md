@@ -1,10 +1,6 @@
-# My Neural Network Assignment
+# Zhenous Hadi Jafari _ HW2 _ Problem 3 _NetworkPlayground _ 02/18/2024
 
-## A First Neural Network
-
-I experimented with the Neural Network Playground to understand how neural networks can learn the XOR pattern.
-
-Task 1: \\
+Task 1:\
 The model as given combines our two input features into a single neuron.
 Will this model learn any nonlinearities? Run it to confirm your guess.\\
 As it is selected, the activation is Linear, the training_loss = 0.49, and Test_Loss = 0.5 \\ So there is no no nonliniarity learning.
