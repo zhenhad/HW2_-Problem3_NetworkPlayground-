@@ -21,7 +21,7 @@ Increasing the number of neurons in the hidden layer from 2 to 3, using a nonlin
 Increasing the number of neurons in hidden layer helped decreasing the Test_loss to 0.17 and Training_los to 0.13, and a complete nonlinear classifying.
 ![image](https://github.com/zhenhad/HW2_-Problem3_NetworkPlayground-/assets/39483728/db396d6a-1e41-47ba-89b8-67119c3620ff)\
 
-### Task 4:\
+### Task 4:
 Continue experimenting by adding or removing hidden layers and neurons per layer. Also feel free to change learning rates, regularization, and other learning settings. What is the smallest number of neurons and layers you can use that gives test loss of 0.177 or lower?\
 \
 The smallest number of neurons in hidden layer is 3 that gives test_loss of 0.17\
