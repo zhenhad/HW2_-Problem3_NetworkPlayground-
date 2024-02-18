@@ -38,42 +38,42 @@ So increasing model capacity will not necessarily improve the model, theoritally
 ![image](https://github.com/zhenhad/HW2_-Problem3_NetworkPlayground-/assets/39483728/62b75cda-44ee-4bd8-935a-f8ec157aa696)
 ## Neural Net Initialization
 
-This exercise uses the XOR data again, but looks at the repeatability of training Neural Nets and the importance of initialization.\
+This exercise uses the XOR data again, but looks at the repeatability of training Neural Nets and the importance of initialization.
 
 ### Task 1:
 
 This exercise uses the XOR data again, but looks at the repeatability of training Neural Nets and the importance of initialization.\
-Run the model as given four or five times. Before each trial, hit the Reset the network button to get a new random initialization. (The Reset the network button is the circular reset arrow just to the left of the Play button.) Let each trial run for at least 500 steps to ensure convergence. What shape does each model output converge to? What does this say about the role of initialization in non-convex optimization?\
+Run the model as given four or five times. Before each trial, hit the Reset the network button to get a new random initialization. (The Reset the network button is the circular reset arrow just to the left of the Play button.) Let each trial run for at least 500 steps to ensure convergence. What shape does each model output converge to? What does this say about the role of initialization in non-convex optimization?
 ### 1:
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/012da786-0e5e-4dbb-9d08-a289894d5304)
-test los = 0.350\
+test los = 0.350
 ### 2:
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/5848d2a4-b976-4e7e-ba7f-40ca17d4fe51)
-test los = 0.333\
+test los = 0.333
 ### 3:
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/fa3ef3f2-fd2d-4313-b01f-8288288fd451)
-test los = 0.309\
+test los = 0.309
 ### 4:
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/e05e29a7-4ff3-49c6-8499-76e5f0cd25ac)
-test loss = 0.192\
+test loss = 0.192
 ### 5:
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/0fcfb8e2-5199-480b-b808-7602fad701ec)
-test loss = 0.309\
+test loss = 0.309
 ### What shape does each model output converge to? What does this say about the role of initialization in non-convex optimization?
 Each time the model had specific shape (star, paralel line) and the test loss was different each time (as I mentioned under each screenshot).\ 
-Task 2 :\ 
+## Task 2 :
 ### 1 : 
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/e0ee2cd3-13ca-4b86-bfa3-902841df7391)
-test loss = 0.196\
+test loss = 0.196
 ### 2 : 
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/8d638726-5f31-41dc-88de-b1febee1dfc6)
-test loss = 0.181\
+test loss = 0.181
 ### 3 : 
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/020ce345-9635-4c50-8632-978eef3ca472)
-test los = 0.190\
+test los = 0.190
 ### 4 :
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/65e322b3-f7ff-4b5d-9788-fc13d8d7f979)
-test loss = 0.191\2
+test loss = 0.191
 ### 5 :
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/8c26238b-4829-4c3e-88c1-caa0ab8d7712)
 test loss = 0.173
