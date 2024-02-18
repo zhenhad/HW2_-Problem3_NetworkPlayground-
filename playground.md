@@ -60,7 +60,7 @@ test loss = 0.192
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/0fcfb8e2-5199-480b-b808-7602fad701ec)
 test loss = 0.309
 ### What shape does each model output converge to? What does this say about the role of initialization in non-convex optimization?
-Each time the model had specific shape (star, paralel line) and the test loss was different each time (as I mentioned under each screenshot).\ 
+Each time the model had specific shape (star, paralel line) and the test loss was different each time (as I mentioned under each screenshot).
 ## Task 2 :
 ### 1 : 
 ![image](https://github.com/DataScienceAndEngineering/homework-2-problem-2-link-id-and-colab-notebook-zhenhad/assets/39483728/e0ee2cd3-13ca-4b86-bfa3-902841df7391)
